@@ -27,16 +27,15 @@ Enables rapid environmental data analysis for researchers, policymakers, and env
 
 ## Screenshots
 
-![Email Summary P1](img\epa_email_1.png)
+![Email Summary P1](img/epa_email_1.png)
 
-![Email Summary P2](img\epa_email_2.png)
+![Email Summary P2](img/epa_email_2.png)
 
 *Email notification summary*
 
-![Google Sheets Export](img\epa_test_run.png)
+![Google Sheets Export](img/epa_test_run.png)
 *Raw data exported to Google Sheets*
 
-![AI Agent workflow](img\lindy_agent.png)
+![AI Agent workflow](img/lindy_agent.png)
 
 *Lindy AI Agent design with functionalities to make API calls, send emails, and export to Google Sheets*
-
